@@ -1,0 +1,8 @@
+*-backups/
+Gerbers/
+fp-info-cache
+*-bak
+autosave-*
+*.kicad_prl
+*.swp
+*.bak
